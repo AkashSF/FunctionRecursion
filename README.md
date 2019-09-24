@@ -1,2 +1,2 @@
 # Function Recursion
-Couple of tasks using function recursion.
+First program performs addition of preceding numbers upto a particular number (user-input).
